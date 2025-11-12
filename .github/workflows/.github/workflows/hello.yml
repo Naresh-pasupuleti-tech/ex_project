@@ -1,0 +1,10 @@
+name: Hello Workflow
+on: push
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Say Hi
+        run: echo "Naresh is learning CI/CD 🚀"
+
+
