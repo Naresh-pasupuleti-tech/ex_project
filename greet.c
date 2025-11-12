@@ -4,5 +4,6 @@ int main()
 	printf("Hey! Hi Naresh\n");
 	printf("Hey Naresh this 2nd line\n");
 	printf("Hey! Naresh this line indicates that you're learning pr\n");
+	printf("Yes Naresh now you're inside the github means this line written in github\n");
 	return 0;
 }
